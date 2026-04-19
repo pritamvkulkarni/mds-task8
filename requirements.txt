@@ -1,0 +1,7 @@
+flask
+requests
+python-telegram-bot==20.7
+azure-cognitiveservices-speech
+azure-ai-vision-imageanalysis
+openai
+gunicorn
